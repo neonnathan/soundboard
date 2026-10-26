@@ -1,5 +1,6 @@
 # Soundboard
 NOTE: This project has been vibecoded, so dont expect it to be great..
+
 A small, portable Windows soundboard that plays sounds into your microphone.
 
 - Single `soundboard.exe`, no installer, no runtime to install
