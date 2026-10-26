@@ -14,7 +14,7 @@ A small, portable Windows soundboard that plays sounds into your microphone.
 
 ## Download
 
-Grab the latest release zip, unzip it anywhere and run `soundboard.exe`.
+Grab the [latest release](https://github.com/neonnathan/soundboard/releases/latest), unzip it anywhere and run `soundboard.exe`.
 
 ## Setup
 
